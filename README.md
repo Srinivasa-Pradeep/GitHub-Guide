@@ -73,4 +73,4 @@ git clean -fd              # Remove untracked files/dirs
 ## Conclusion
 ⭐ If this cheat sheet helped you, please consider giving the repo a star, it keeps me motivated to share more like this!
 
-[Handy Reference - click here to download!](Asset/Git-Cheats.jpg)
+[Handy Reference - click here to download!](Asset/Git-Cheat.jpg)
