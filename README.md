@@ -31,6 +31,13 @@ git switch -c <name>       # Create + switch
 git checkout <name>        # Old way to switch branch
 git branch -d <name>       # Delete branch
 ```
+### 🌐 Remote Management
+```
+git remote add <name> <url>                 # Add new remote
+git remote remove <name>                    # Remove remote
+git remote rename <old> <new>               # Rename remote
+git remote set-url origin <url>             # Change URL of existing remote
+```
 ### 🔄 Remote Sync
 ```
 git remote -v              # Show remotes
